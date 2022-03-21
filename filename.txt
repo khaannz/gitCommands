@@ -1,0 +1,1 @@
+Hello this is basic git command file.Today's date is 21/03/2022
